@@ -1,0 +1,25 @@
+img{
+	opacity: 0.8; 
+	width: 200px;
+	height: 200px;
+	margin-right: 20px;
+	position: relative;
+}
+div{
+	margin-right: 50px;
+	margin-left: 50px;
+	padding: 20px;
+}
+span{
+	position: absolute;
+	font-family: cursive;
+	font-size:15px;
+	color: black; 
+}
+.linea{
+	background-color:black;
+	height:5px;
+	margin-left:0%;
+	margin-right:50%;
+	margin-bottom: 50px;
+}
